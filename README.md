@@ -6,6 +6,33 @@ Encra brings file organization, private media viewing, and encrypted recovery in
 
 This is the public showcase for an independent, closed-source project by **Andrew Baker**. Encra is in active development.
 
+## Interface showcase
+
+**Actual app screenshots with generated sample data.** These captures use fresh simulators and Encra's isolated test vault, with synthetic images and a generated PDF. No personal vault, private documents, or real recovery codes are shown. Each image was visually reviewed before publication.
+
+<table>
+<tr>
+<th>File browsing on iPhone</th>
+<th>Image viewing on iPhone</th>
+</tr>
+<tr>
+<td><img src="images/iphone-file-browser.png" width="280" alt="Encra iPhone file browser showing generated Image Preview thumbnails inside a sample Work folder"></td>
+<td><img src="images/iphone-image-viewer.png" width="280" alt="Encra iPhone image viewer displaying a generated teal and yellow sample image"></td>
+</tr>
+<tr>
+<td>Folder navigation, thumbnail browsing, and compact search and file controls.</td>
+<td>A focused viewing surface for a sample image, with navigation and document actions.</td>
+</tr>
+</table>
+
+### PDF workspace on iPad
+
+<img src="images/ipad-pdf-workspace.png" width="900" alt="Encra iPad PDF workspace displaying a generated three-page regression document with page thumbnails and reading controls">
+
+The PDF and its visible regression-test wording are generated fixtures. The page strip illustrates navigation within a document; it contains no personal or work records.
+
+Captured November 7, 2026 on iPhone 18 Pro and iPad Pro 13-inch (M5) simulators running iOS/iPadOS 27.2. Select an image to inspect it at full size. These screenshots illustrate the interface, not an independent security assessment.
+
 ## Product focus
 
 | Workflow | What Encra supports |
@@ -51,7 +78,7 @@ Automated checks cover storage, recovery, authorization, and interface behavior.
 
 ## Source availability
 
-Encra is closed source. This repository contains public project documentation only. Application source, private development history, test fixtures, and internal reports are maintained separately.
+Encra is closed source. This repository contains public project documentation and reviewed sample-data interface screenshots. Application source, private development history, test-fixture source, and internal reports are maintained separately.
 
 ## About the creator
 
