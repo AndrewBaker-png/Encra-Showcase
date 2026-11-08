@@ -2,7 +2,9 @@
 
 [Back to the project overview](README.md)
 
-Prepared November 7, 2026 from the private project's documentation and selected test-source inspection. No application build, test suite, or device scenario was rerun to prepare this showcase. Internal reports, device identifiers, and test data are not published here.
+This validation summary was initially prepared on November 7, 2026 from the private project's documentation and selected test-source inspection. No builds or tests were rerun for that initial documentation review. The November 1 results below remain historical project-record results.
+
+Later on November 7, the app was built and selected simulator UI scenarios were run to capture the showcase's sample-data screenshots. Those capture runs did not repeat the historical validation summarized below and do not establish a full regression pass or independent security assessment. Internal reports, device identifiers, and test-fixture source remain private.
 
 ## What the tests exercise
 
